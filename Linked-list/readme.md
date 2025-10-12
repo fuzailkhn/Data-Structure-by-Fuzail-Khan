@@ -35,23 +35,6 @@ It covers all the fundamental linked list operations such as insertion, deletion
 * `delete_from_beginning()`
 * `print()`
 
----
-
-### 🚀 How to Run
-
-1. Open your terminal or Visual Studio Code.
-2. Compile the program using:
-
-   ```bash
-   g++ linkedlist.cpp -o linkedlist
-   ```
-3. Run the program:
-
-   ```bash
-   ./linkedlist
-   ```
-
----
 
 ### 🧾 Example Output
 
